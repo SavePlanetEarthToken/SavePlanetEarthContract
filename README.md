@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://saveplanetearth.io/static/media/SPE-logo-gradient-rounded.90d998d7.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://saveplanetearth.io/static/media/SPE-logo-gradient-rounded.90d998d7.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Save Planet Earth Token</h3>
