@@ -62,10 +62,6 @@ landscape through carbon sequestration in coordination with international aid or
 (tree cover) and better marine management, and lobbying for more meaningful legal controls and achieve commercial market maturity to wake up and face real costs of
 climate change.
  
-
-
-<br/>
-<br/>
 <br/>
 <br/>
 
