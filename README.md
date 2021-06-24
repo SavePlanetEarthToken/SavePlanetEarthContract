@@ -95,17 +95,6 @@ climate change.
 #### [Road Map API](https://raw.githubusercontent.com/SavePlanetEarthToken/SavePlanetEarth/main/spe_roadmap.json)
 - Road Map for Save Planet Earth LTD
 
-## Changelog
-
-- Updated Configuration API to add actionButtonTitle in Announcements
-- Updated Configuration API to add the WhitePaper URL
-- Updated Road Map API with LottieAsset
-- Added Road Map API to track live Road Map of Save Planet Earth LTD
-- Updated Swap Background API to support `speTextColor` attribute
-- Added Configurations for Swap Background
-- Added Configuration API for announcement and scheduled maintenance
-- Added Markets API for a list of Exchanges $SPE is listed on
-- Added donation wallets to the Token Info API
  
 
 
