@@ -63,8 +63,7 @@ landscape through carbon sequestration in coordination with international aid or
 climate change.
  
 <br/>
-<br/>
-
+ 
 ## APIs
 
 #### [Token Info API](https://raw.githubusercontent.com/SavePlanetEarthToken/SavePlanetEarth/main/spe_token_info.json)
