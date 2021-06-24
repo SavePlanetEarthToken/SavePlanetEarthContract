@@ -71,28 +71,28 @@ climate change.
 
 ## APIs
 
-#### [Token Info API](https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/spe_token_info.json)
+#### [Token Info API](https://raw.githubusercontent.com/SavePlanetEarthToken/SavePlanetEarth/main/spe_token_info.json)
 - Details about HODLs, Trees Planted and Tokens Burnt
 - Details about Tokenomics
 - Social Links
 - Donation Wallet/s along with description
 
-#### [Team Info API](https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/spe_team_info.json)
+#### [Team Info API](https://raw.githubusercontent.com/SavePlanetEarthToken/SavePlanetEarth/main/spe_team_info.json)
 - Details about team members of SPE along with their socials (if present)
 
-#### [Configuration API](https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/spe_configuration.json)
+#### [Configuration API](https://raw.githubusercontent.com/SavePlanetEarthToken/SavePlanetEarth/main/spe_configuration.json)
 - Maintenance toggle
 - White Paper URL
 - List of Announcements
 
-#### [Markets API](https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/spe_markets_info.json)
+#### [Markets API](https://raw.githubusercontent.com/SavePlanetEarthToken/SavePlanetEarth/main/spe_markets_info.json)
 - List of Exchanges $SPE is listed on along with basic information
 - Featured Exchange
 
-#### [Swap Backgrounds API](https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/spe_swap_background.json)
+#### [Swap Backgrounds API](https://raw.githubusercontent.com/SavePlanetEarthToken/SavePlanetEarth/main/spe_swap_background.json)
 - Different swap backgrounds with various configurations
 
-#### [Road Map API](https://raw.githubusercontent.com/aseef17/SavePlanetEarth/main/spe_roadmap.json)
+#### [Road Map API](https://raw.githubusercontent.com/SavePlanetEarthToken/SavePlanetEarth/main/spe_roadmap.json)
 - Road Map for Save Planet Earth LTD
 
 ## Changelog
